@@ -1,0 +1,2 @@
+# Video-Controlled-Robot
+Building a robot which could be controlled by video processing was the purpose of this project. A white object is detected by it's brightness. If this object goes into a rectangle in left,right,up or downside of the frame, computer sends appropriate signals to the robot by bluetooth and the robot starts to move in the corresponding direction and keeps moving until the object is inside that rectangle. The code is written in C# using openCVsharp
