@@ -70,3 +70,5 @@ If the object is in any of the rectangles send the command to robot to turn to t
       w1.Image = mtx.ToCvMat();         //show processed image on screen
 ```
 Show camera output and processed image on screen.
+
+You can see a video in our website: [I'm an inline-style link](http://geekbrothers.org/index.php/categories/12-electronics-computers/20-video-controlled-robot)
