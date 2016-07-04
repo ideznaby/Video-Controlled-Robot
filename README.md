@@ -3,7 +3,7 @@ Building a robot which could be controlled by video processing was the purpose o
 
 Robot was built using NXT. You can see nxt source code in NXT folder.
 
-Video processing is done using opencv sharp.  You can download this library from [I'm an inline-style link](https://github.com/shimat/opencvsharp)
+Video processing is done using opencv sharp.  You can download this library from [OpenCVSharp Library](https://github.com/shimat/opencvsharp)
 
 A white object is detected by it's brightness. If this object goes into a rectangle in left,right,up or downside of the frame, computer sends appropriate signals to the robot by bluetooth and the robot starts to move in the corresponding direction and keeps moving until the object is inside that rectangle.
 
@@ -71,4 +71,4 @@ If the object is in any of the rectangles send the command to robot to turn to t
 ```
 Show camera output and processed image on screen.
 
-You can see a video in our website: [I'm an inline-style link](http://geekbrothers.org/index.php/categories/12-electronics-computers/20-video-controlled-robot)
+You can see a video in our website: [Video of program](http://geekbrothers.org/index.php/categories/12-electronics-computers/20-video-controlled-robot)
